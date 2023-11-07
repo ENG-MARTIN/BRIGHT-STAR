@@ -110,7 +110,7 @@ ul ol {
 nav .navbar{
   color: #fff;
 }
-.nav-link{
+.nav-item .nav-link{
   color: #fff;
   font-size: 20px;
 }
